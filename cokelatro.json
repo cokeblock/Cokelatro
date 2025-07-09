@@ -1,0 +1,17 @@
+{
+  "id": "cokelatro",
+  "name": "Cokelatro",
+  "author": [
+    "cokeblock"
+  ],
+  "description": "Cokeblock's custom jokers\n\ncurrently adds\n35+ jokers\n12 common\n8 uncommon\n10 Rare\n5 legendary\n",
+  "prefix": "cokelatr",
+  "main_file": "main.lua",
+  "version": "2.5.0",
+  "priority": 1,
+  "badge_colour": "75cda9",
+  "badge_text_colour": "16104d",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)"
+  ]
+}
