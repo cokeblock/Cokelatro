@@ -1,5 +1,5 @@
 # Cokelatro
-A mod i (cokeblock) are developing
+A mod i (cokeblock) am developing
 Cokelatro currently adds
 35+ jokers (2 broken currently)
 -12 common
