@@ -12,4 +12,5 @@ currently (v1.1.0)
 - 17 ethereal cards
 - 5 prime ethereal cards
 - 4 blessing cards
+  
 !!THIS MOD WOULD HAVE NEVER BEEN POSSIBLE WITHOUT THE AMAZING JOKER FORGE TOOL (https://jokerforge.jaydchw.com/metadata)!!
